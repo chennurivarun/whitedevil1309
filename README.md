@@ -1,8 +1,8 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/03/69/52/94/360_F_369529490_oQGJ7EY4FAshFsJUIXJyosgcsktEq29U.jpg)](https://whitedevil.io)
 <h1 align="center">Hi 👋, I'm varun chennuri</h1>
 <h3 align="center">A tech enthusiast from india</h3>
-<img align="right" alt="Coding" length="600" width="400" src="https://t4.ftcdn.net/jpg/02/73/46/99/240_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
-<p align="left"> <a href="https://twitter.com/varun_chennuri" target="blank"><img src="https://img.shields.io/twitter/follow/varun_chennuri?logo=twitter&style=for-the-badge" alt="varun_chennuri" /></a> </p>
+<img align="right" alt="Coding" length="600" width="400" src="https://t3.ftcdn.net/jpg/04/10/70/78/240_F_410707846_1vQBf8j6FaHcW6UQuWNI7yAyrXyPB9C2.jpg">
+
 
 - 🔭 I’m currently working on **ASL to speech convertor**
 
