@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm varun chennuri</h1>
 <h3 align="center">A tech enthusiast from india</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/73/46/99/240_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitedevil1309" alt="whitedevil1309" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/varun_chennuri" target="blank"><img src="https://img.shields.io/twitter/follow/varun_chennuri?logo=twitter&style=for-the-badge" alt="varun_chennuri" /></a> </p>
 
 - 🔭 I’m currently working on **ASL to speech convertor**
