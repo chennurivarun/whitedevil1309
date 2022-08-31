@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/03/77/74/92/240_F_377749209_v0AHthvMKyUaNg7b7pd6872O6VHz41Dp.jpg)](https://whitedevil.io)
+[![MasterHead](https://t3.ftcdn.net/jpg/03/69/52/94/360_F_369529490_oQGJ7EY4FAshFsJUIXJyosgcsktEq29U.jpg)](https://whitedevil.io)
 <h1 align="center">Hi 👋, I'm varun chennuri</h1>
 <h3 align="center">A tech enthusiast from india</h3>
 <img align="right" alt="Coding" length="600" width="400" src="https://t4.ftcdn.net/jpg/02/73/46/99/240_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
